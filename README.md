@@ -100,3 +100,32 @@ These are detailed and polished wireframes that closely resemble the final produ
 ---
 
 > Each type of wireframe serves a different purpose — start low to think freely, then go high to get ready for delivery.
+---
+
+## Wireframing Tools
+
+There are several tools available for wireframing, each with unique features and benefits. Here are some popular options:
+
+- **Figma**
+- **Adobe XD**
+- **Sketch**
+- **Balsamiq**
+- **Wireframe.cc**
+
+### ⭐ Recommended Tool: Figma
+
+**Figma** is a web-based interface design tool that allows real-time collaboration, wireframing, prototyping, and feedback all in one place.
+
+**Key Features:**
+- Cloud-based: Access your work from any device.
+- Real-time collaboration: Multiple team members can design and comment together.
+- Easy-to-use interface with drag-and-drop elements.
+- Works well for both low- and high-fidelity wireframes.
+- Free for individual users and students.
+
+**Why Figma is Great for Wireframing:**
+Figma is ideal for wireframing because it balances speed and precision. You can sketch rough ideas quickly or build polished mockups — all without switching tools. Plus, it’s easy to share your work and get feedback instantly.
+
+---
+
+> For beginners and pros alike, Figma is a powerful and flexible tool that brings ideas to life.
