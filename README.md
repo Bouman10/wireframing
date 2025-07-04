@@ -48,3 +48,55 @@ This refers to interactive elements like search bars, dropdowns, login forms, an
 ---
 
 Each of these elements contributes to usability and clarity, which are the heart of a great user experience.
+---
+
+## Types of Wireframes
+
+Wireframes come in different levels of detail, mainly **low-fidelity** and **high-fidelity**. Each plays a role at different stages of the design process.
+
+### 📝 Low-Fidelity Wireframes
+
+These are rough sketches or simple digital wireframes that focus on layout and structure without any design details. They use boxes, placeholders, and basic shapes.
+
+**Key Features:**
+- No colors, fonts, or images
+- Basic layout and structure
+- Fast to create and change
+
+**When to Use:**
+- During brainstorming or early planning
+- To quickly test ideas and user flows
+
+**Example:** A black-and-white sketch showing where the header, buttons, and text blocks will go.
+
+---
+
+### 🎨 High-Fidelity Wireframes
+
+These are detailed and polished wireframes that closely resemble the final product. They include colors, real content, fonts, icons, and interactions.
+
+**Key Features:**
+- Includes actual text and images
+- Shows final layout and styling
+- May include clickable elements or animations
+
+**When to Use:**
+- Later in the design phase
+- For client presentations or developer handoff
+
+**Example:** A mockup with brand colors, real product images, and working navigation links.
+
+---
+
+### 🧠 Summary
+
+| Feature              | Low-Fidelity                   | High-Fidelity                        |
+|----------------------|--------------------------------|--------------------------------------|
+| Detail Level          | Low                            | High                                 |
+| Speed of Creation     | Very Fast                      | Slower                               |
+| Used For              | Early-stage planning           | Final design review & handoff        |
+| Looks Like            | Sketch or wire                  | Almost real interface                |
+
+---
+
+> Each type of wireframe serves a different purpose — start low to think freely, then go high to get ready for delivery.
